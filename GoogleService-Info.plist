@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>326199880039-a10i3bt33kg092q2lin07bsga4udpm9h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.326199880039-a10i3bt33kg092q2lin07bsga4udpm9h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfr81SdOO87ci92NOoXAYABtSHCSMeW9o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>326199880039</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.honggao.geoMessenger</string>
+	<key>PROJECT_ID</key>
+	<string>geomessager-e71bc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>geomessager-e71bc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:326199880039:ios:66cbed591e105973</string>
+	<key>DATABASE_URL</key>
+	<string>https://geomessager-e71bc.firebaseio.com</string>
+</dict>
+</plist>
